@@ -1,0 +1,28 @@
+# Logs
+logs/
+*.log
+
+# Build 
+build/
+
+# Executables and object files
+*.exe
+*.out
+*.obj
+*.a
+*.so
+
+# Dynamic libraries and debug symbols
+*.dll
+*.dSYM/
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# other 
+.vscode
+tests/
