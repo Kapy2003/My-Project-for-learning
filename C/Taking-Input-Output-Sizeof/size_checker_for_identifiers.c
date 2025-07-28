@@ -25,6 +25,6 @@ int main() {
     printf("Size of double: %zu bytes\n", sizeof(c));
     printf("Size of long double: %zu bytes\n", sizeof(d));
     
-//    system("pause");
+    system("pause");
     return 0;
     }
