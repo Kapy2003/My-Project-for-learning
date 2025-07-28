@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdlib.h>
+#include<stdlib.h>      // this library is needed for system("pause")
 const double pi = 3.14159265359;
 int main(){
     double r;
@@ -12,6 +12,6 @@ int main(){
 // circumference of circle
     double cir = pi*r*2;
     printf("Circumference of the circle is : %lf cm\n", cir);
-    system("pause");
+    system("pause");    // this is only for windows as this makes the application not quit after executing successfully
     return 0;
 }
