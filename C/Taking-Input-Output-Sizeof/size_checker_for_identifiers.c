@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include<stdlib.h>
-int main() {
+// #include<stdlib.h>    // this library is needed for system("pause")
+int main( void ) {
     int a;
     printf("enter a(int):");
     scanf("%d", &a);
@@ -25,6 +25,6 @@ int main() {
     printf("Size of double: %zu bytes\n", sizeof(c));
     printf("Size of long double: %zu bytes\n", sizeof(d));
     
-    system("pause");
+//    system("pause"); // this is only for windows as this makes the application not quit after executing successfully
     return 0;
-    }
+}
