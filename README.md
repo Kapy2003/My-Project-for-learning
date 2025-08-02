@@ -33,10 +33,6 @@ This project serves as a sandbox for learning. It may contain a variety of code 
 
 This repository is for personal learning, but suggestions or contributions are welcome via issues or pull requests.
 
-## 📄 License
-
-See the [LICENSE](LICENSE) file for details.
-
 ## 📝 Author
 
 - **Kapy2003** ([GitHub Profile](https://github.com/Kapy2003))
